@@ -1,0 +1,4 @@
+﻿  bài toán cài đặt quitsort.cpp
+C:\Users\hi\Desktop\học tập\năm 2\PTTKGT\bài toán cài đặt quitsort\bài toán cài đặt quitsort.cpp(41,9): error C2065: 'left': undeclared identifier
+C:\Users\hi\Desktop\học tập\năm 2\PTTKGT\bài toán cài đặt quitsort\bài toán cài đặt quitsort.cpp(41,16): error C2065: 'right': undeclared identifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(700,5): error MSB6006: "CL.exe" exited with code 2.
